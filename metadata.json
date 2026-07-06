@@ -1,0 +1,6 @@
+{
+  "name": "Houssem Compta",
+  "description": "تطبيق احترافي لإعداد الموازنات التقديرية آليًا وفق النظام المحاسبي المالي الجزائري (SCF) لمدة 12 شهرًا مع حفظ المشاريع والتصدير إلى PDF و Excel والطباعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
